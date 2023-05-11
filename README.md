@@ -2,7 +2,7 @@
 college project
 
 ##Environment Used
-Jupyter Notebook
-VS code
-PGAdmin
+#Jupyter Notebook
+#VS code
+#PGAdmin
 

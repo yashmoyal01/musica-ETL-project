@@ -9,3 +9,6 @@ college project
 #VS code
 #PGAdmin
 
+ETL pipeline files : create_tables.py,etl.ipynb,etl.py,sql_queries.py
+churn prediction files : Musica_prediction.ipynb
+
